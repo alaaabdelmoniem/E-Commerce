@@ -1,0 +1,12 @@
+const String kSplashImage = 'assets/images/splash_image.png';
+const String kOnboarding1Image = 'assets/images/fashion shop-rafiki 1.svg';
+const String kOnboarding2Image = 'assets/images/Sales consulting-pana 1.svg';
+const String kOnboarding3Image = 'assets/images/Shopping bag-rafiki 1.svg';
+const String kGetStartedImage = 'assets/images/get_started_image.png';
+const String kEye = 'assets/images/eye.png';
+const String kPhone = 'assets/images/phone.png';
+const String kUser = 'assets/images/User.png';
+const String kClose = 'assets/images/close.png';
+const String kEmail = 'assets/images/Message - Iconly Pro.png';
+const String kSearchImageIcom = 'assets/images/Component_search_icon.png';
+const String kShoppingImage = 'assets/images/shoopoing.jpg';
